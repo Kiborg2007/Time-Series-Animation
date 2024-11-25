@@ -8,3 +8,4 @@ You can choose whether two figures will be displayed on the chart or only one.
 
 Two figures will be displayed if the `normalize = True` parameter is set. This is necessary so that you can compare the dynamics in both absolute and normalized parameters. (In my case, normalization occurs when dividing the indicator by the population)
 
+After running the script, the graph is saved as a gif image.
